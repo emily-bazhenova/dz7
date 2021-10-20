@@ -9,8 +9,8 @@
   height: 100px;
   width: 100px;
   position: fixed;
-  top: 100px;
-  left: 100px;
+  top: 150px;
+  left: 400px;
 }
 
 .middle-circle {
@@ -56,9 +56,7 @@
 }
 
 .background {
-  height: 300px;
-}
-
-.pink {
+  height: 400px;
   background-color: rgba(252, 229, 229, 0.584);
+  margin-top: 200px;
 }
