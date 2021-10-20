@@ -1,0 +1,64 @@
+.big-circle,
+.middle-circle,
+.small-circle {
+  border-radius: 50px;
+}
+
+.big-circle {
+  background-color: rgb(193, 90, 72);
+  height: 100px;
+  width: 100px;
+  position: fixed;
+  top: 100px;
+  left: 100px;
+}
+
+.middle-circle {
+  background-color: rgb(112, 121, 189);
+  height: 25px;
+  width: 25px;
+  position: absolute;
+}
+
+.small-circle {
+  background-color: rgb(13, 184, 127);
+  height: 10px;
+  width: 10px;
+  position: absolute;
+}
+
+.middle-1 {
+  left: -30px;
+  top: 40px;
+  box-shadow: 0px 0px 20px 7px rgba(243, 118, 118, 0.85);
+}
+
+.middle-2 {
+  right: -35px;
+  top: -10px;
+  box-shadow: 0px 0px 20px 7px rgba(243, 118, 118, 0.85);
+}
+
+.middle-3 {
+  background-color: red;
+  bottom: -25px;
+  right: 20px;
+  box-shadow: 0px 0px 20px 5px rgba(137, 118, 243, 0.85);
+}
+
+.small-1 {
+  bottom: -30px;
+}
+
+.small-2 {
+  bottom: 0px;
+  right: -18px;
+}
+
+.background {
+  height: 300px;
+}
+
+.pink {
+  background-color: rgba(252, 229, 229, 0.584);
+}
